@@ -1,7 +1,7 @@
 [package]
 name = "cis2_wccd"
 version = "0.1.0"
-edition = "2022"
+edition = "2018"
 license = "MPL-2.0"
 authors = [ "CryptoSnowPrince <topdirector2017@gmail.com>" ]
 description = "cis2_wccd smart contract"
